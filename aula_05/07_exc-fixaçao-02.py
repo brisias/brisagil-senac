@@ -1,0 +1,1 @@
+# Construa um programa que armazene em vetores o nome, a idade e o sexo de 10 pessoas. Ao final informe o nome da pessoa mais nova e da mais velha, a quantidade de pessoas maiores de idade e a quantidade de pessoas do sexo feminino.
