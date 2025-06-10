@@ -1,9 +1,0 @@
-
-A análise demonstra uma forte relação linear entre temperatura média e produção de sorvete.
-
-- Correlação: 0.9996 (positiva muito forte)
-- Coeficiente angular: 10.00 (a cada +1°C, produção aumenta em ~10.00 unidades)
-- Intercepto: -99.82
-- R²: 0.9992 (o modelo explica 99.92% da variabilidade da produção)
-
-Esses resultados validam o uso da temperatura como um preditor confiável para a demanda de sorvete. O modelo se ajusta muito bem aos dados.
