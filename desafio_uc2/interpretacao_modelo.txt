@@ -1,0 +1,28 @@
+
+A análise demonstra uma forte relação linear entre temperatura média e produção de sorvete.
+
+- Correlação: 0.9996 (positiva muito forte)
+- Coeficiente angular: 10.00 (a cada +1°C, produção aumenta em ~10.00 unidades)
+- Intercepto: -99.82
+- R²: 0.9992 (o modelo explica 99.92% da variabilidade da produção)
+
+Esses resultados validam o uso da temperatura como um preditor confiável para a demanda de sorvete. O modelo se ajusta muito bem aos dados.
+
+
+Os resultados mostram que há uma correlação positiva forte entre a temperatura média e a produção de sorvete (coeficiente de correlação de Pearson = 0,9996).
+
+Além disso, o modelo de regressão linear simples mostra que a temperatura média é um bom preditor da produção de sorvete (coeficiente de determinação = 0,9992).
+
+Os resultados também mostram que para cada aumento de 1°C na temperatura média, a produção de sorvete aumenta em aproximadamente 10 unidades.
+
+E o intercepto do modelo é -99.82, o que significa que quando a temperatura média é 0°C, a produção de sorvete é de -99.82 unidades.
+
+Logo a sorveteria só começaria a vender a partir de uma temperatura de 10°C
+
+Isso é apenas uma estimativa baseada nos dados e no modelo de regressão linear simples. Na prática, a temperatura média a partir da qual a sorveteria começa a vender sorvete pode variar dependendo de muitos fatores, como a localização, a época do ano, a concorrência, etc.
+
+
+
+
+
+
